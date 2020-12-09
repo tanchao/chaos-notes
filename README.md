@@ -13,3 +13,5 @@
 * improve engineering productivity or efficiency
   * engineering practice
   * engineering culture
+### Notes
+* it looks to me the actual technology/domain knowledge is not desired, what they need is more on the engineering mechanism/practice/culture.
