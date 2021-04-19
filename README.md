@@ -1,5 +1,12 @@
 # chaos-notes
 
+## Apr/2021, US
+### try **not** to get used to the "normal" and "common" environment
+### focus on the big problems and ambicious goals instead of low-hanging-fruits and easy-short-deliverables
+### don't let the **unknowns** gone, it means something no one knows and your matter subject in future
+* it's a hard problem, trust your teammates; so,
+* it's normally means you are lack of metrics/data, or no dedicated analysis yet
+
 ## Feb/2021, US
 ### Communicate early and check regularly
 ### Talk with manager and trusted people on scope
