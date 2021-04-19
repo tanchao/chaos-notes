@@ -6,6 +6,12 @@
 ### don't let the **unknowns** gone, it means something no one knows and your matter subject in future
 * it's a hard problem, trust your teammates; so,
 * it's normally means you are lack of metrics/data, or no dedicated analysis yet
+* at this stage, focus on the more monitorings and analyzer tools that could generate more data
+### analysises, assumptions and validations
+* swim in the ocean is difficult, any assumption should depends on data and knowledge
+* every exploration with assumption need validation to ensure the "right" direction
+### don't just believe in key-opinion-leader easily in unknown areas
+* if they know, it's a known issue
 
 ## Feb/2021, US
 ### Communicate early and check regularly
