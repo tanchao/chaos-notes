@@ -1,5 +1,13 @@
 # chaos-notes
 
+## Jul/2021, US
+### interviewer not only evaulate on the technical strength but also look for scope and leadership, especially in mid-senior level.
+### being a fierce nerd: http://www.paulgraham.com/fn.html
+>There's also a natural connection between nerdiness and independent-mindedness. It's hard to be independent-minded without being somewhat socially awkward, because conventional beliefs are so often mistaken, or at least arbitrary. No one who was both independent-minded and ambitious would want to waste the effort it takes to fit in. And the independent-mindedness of the fierce nerds will obviously be of the aggressive rather than the passive type: they'll be annoyed by rules, rather than dreamily unaware of them.
+### jeff@'s last letter to stakeholder: https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders
+>Differentiation is Survival and the Universe Wants You to be Typical
+>In what ways does the world pull at you in an attempt to make you normal? How much work does it take to maintain your distinctiveness? To keep alive the thing or things that make you special?
+
 ## Apr/2021, US
 ### try **not** to get used to the "normal" and "common" environment
 ### focus on the big problems and ambicious goals instead of low-hanging-fruits and easy-short-deliverables
