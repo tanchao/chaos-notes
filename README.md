@@ -9,6 +9,14 @@
 
 >In what ways does the world pull at you in an attempt to make you normal? How much work does it take to maintain your distinctiveness? To keep alive the thing or things that make you special?
 
+### DONT CAMPLAIN
+- you probably donn't camplain to the same people you camplain about
+- you camplain with your peers who might share the info with others
+- you camplain with your boss who will minors one from you
+- you camplain with your followers who might get your weakness
+- you camplain with external people who evaluate you at a lower level as any situation is not worth complaining
+
+
 ## Apr/2021, US
 ### try **not** to get used to the "normal" and "common" environment
 ### focus on the big problems and ambicious goals instead of low-hanging-fruits and easy-short-deliverables
