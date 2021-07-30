@@ -16,6 +16,8 @@
 - you camplain with your followers who might get your weakness
 - you camplain with external people who evaluate you at a lower level as any situation is not worth complaining
 
+### REAL WORLD
+- people talk about fancy architecture and brilliant idea->design of the edging techniques, however, in real world, they are just the fundamental operartions: debug and optimize.
 
 ## Apr/2021, US
 ### try **not** to get used to the "normal" and "common" environment
